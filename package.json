@@ -1,0 +1,19 @@
+{
+  "name": "sheetsgif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joetech/sheetsgif.git"
+  },
+  "author": "Joe Colburn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joetech/sheetsgif/issues"
+  },
+  "homepage": "https://github.com/joetech/sheetsgif#readme"
+}
